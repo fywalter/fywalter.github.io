@@ -7,6 +7,7 @@ permalink: /personal/
 ---
 
 ## Recent readings
+- The Worlds I See - Feifei Li
 - Returning to Reims - Didier Eribon
 - Getting Things Done - David Allen
 - The Book of Why: The New Science of Cause and Effect - Judea Pearl
