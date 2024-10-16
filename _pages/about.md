@@ -31,7 +31,8 @@ Previously, I got my M.S. in Computer Science from **ETH Zurich**, advised by [M
 * 2022 - Graduated with a M.S. in Computer Science with distinction from ETH Zurich.
 
 ## Publications and Preprints
-**Nudging: Inference-time Alignment via Model Collaboration**
+
+**Nudging: Inference-time Alignment via Model Collaboration**\
 **Yu Fei**, Yasaman Razeghi, Sameer Singh\
 *Preprint* \
 [[paper]](https://arxiv.org/abs/2410.09300) [[code]](https://github.com/fywalter/nudging) [[website]](https://fywalter.github.io/nudging/)
