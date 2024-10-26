@@ -35,7 +35,7 @@ Previously, I got my M.S. in Computer Science from **ETH Zurich**, advised by [M
 **Nudging: Inference-time Alignment via Model Collaboration**\
 **Yu Fei**, Yasaman Razeghi, Sameer Singh\
 *Preprint* \
-[[paper]](https://arxiv.org/abs/2410.09300) [[code]](https://github.com/fywalter/nudging) [[website]](https://fywalter.github.io/nudging/)
+[[paper]](https://arxiv.org/abs/2410.09300) [[code]](https://github.com/fywalter/nudging) [[website]](https://fywalter.github.io/nudging/) [[demo]](https://huggingface.co/spaces/fywalter/nudging_align)
 
 **Towards a Mechanistic Interpretation of Multi-Step Reasoning Capabilities of Language Models**    
 Yifan Hou, Jiaoda Li, **Yu Fei**, Alessandro Stolfo, Wangchunshu Zhou, Guangtao Zeng, Antoine Bosselut, Mrinmaya Sachan\
