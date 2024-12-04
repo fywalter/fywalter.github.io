@@ -15,7 +15,7 @@ redirect_from:
 -->
 
 ## About Me
-I am a second-year Ph.D. student in the [UCI-NLP](https://ucinlp.github.io/) at the **University of California, Irvine**, where I am fortunate to be advised by [Sameer Singh](https://sameersingh.org/). My current research interests are centered around natural language reasoning, understanding and evaluating NLP systems. 
+I am a second-year Ph.D. student in the [UCI-NLP](https://ucinlp.github.io/) at the **University of California, Irvine**, where I am fortunate to be advised by [Sameer Singh](https://sameersingh.org/). My current research interests are centered around understanding and evaluating ML systems. 
 
 Previously, I got my M.S. in Computer Science from **ETH Zurich**, advised by [Mrinmaya Sachan](https://www.mrinmaya.io/). Before that I obtained a B.S. in Theoretical and Applied Mechanics from **Peking University**, where I worked with [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm). I also spent wonderful a half year worked as a research intern at **EPFL** working with [Antoine Bosselut](https://atcbosselut.github.io/) prior to joining UCI.
 
