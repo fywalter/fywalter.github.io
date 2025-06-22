@@ -22,6 +22,7 @@ Previously, I got my M.S. in Computer Science from **ETH Zurich**, advised by [M
 *Email:* [firstname].fei@uci.edu
 
 ## Recent News
+* 2025 - Started an intership @ Amazon Rufus
 * 2024 - Check our new preprint on inference-time alignment! [[website]](https://fywalter.github.io/nudging/)
 * 2023 - Paper accepted to EMNLP 2023 "Towards a Mechanistic Interpretation of Multi-Step Reasoning Capabilities of Language Models"! [[pdf]](https://arxiv.org/pdf/2310.14491.pdf) [[code]](https://github.com/yifan-h/MechanisticProbe)
 * 2023 - Joined the [UCI-NLP](https://ucinlp.github.io/).
