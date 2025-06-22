@@ -23,6 +23,7 @@ Previously, I got my M.S. in Computer Science from **ETH Zurich**, advised by [M
 
 ## Recent News
 * 2025 - Started an intership @ Amazon Rufus
+* 2025 - One paper accepted to ACL 2025
 * 2024 - Check our new preprint on inference-time alignment! [[website]](https://fywalter.github.io/nudging/)
 * 2023 - Paper accepted to EMNLP 2023 "Towards a Mechanistic Interpretation of Multi-Step Reasoning Capabilities of Language Models"! [[pdf]](https://arxiv.org/pdf/2310.14491.pdf) [[code]](https://github.com/yifan-h/MechanisticProbe)
 * 2023 - Joined the [UCI-NLP](https://ucinlp.github.io/).
@@ -33,7 +34,7 @@ Previously, I got my M.S. in Computer Science from **ETH Zurich**, advised by [M
 
 ## Publications and Preprints
 
-**Nudging: Inference-time Alignment via Model Collaboration**\
+**Nudging: Inference-time Alignment of LLMs via Guided Decoding**\
 **Yu Fei**, Yasaman Razeghi, Sameer Singh\
 *Preprint* \
 [[paper]](https://arxiv.org/abs/2410.09300) [[code]](https://github.com/fywalter/nudging) [[website]](https://fywalter.github.io/nudging/) [[demo]](https://huggingface.co/spaces/fywalter/nudging_align)
