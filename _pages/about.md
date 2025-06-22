@@ -36,7 +36,7 @@ Previously, I got my M.S. in Computer Science from **ETH Zurich**, advised by [M
 
 **Nudging: Inference-time Alignment of LLMs via Guided Decoding**\
 **Yu Fei**, Yasaman Razeghi, Sameer Singh\
-*Preprint* \
+*ACL 2025* \
 [[paper]](https://arxiv.org/abs/2410.09300) [[code]](https://github.com/fywalter/nudging) [[website]](https://fywalter.github.io/nudging/) [[demo]](https://huggingface.co/spaces/fywalter/nudging_align)
 
 **Towards a Mechanistic Interpretation of Multi-Step Reasoning Capabilities of Language Models**    
