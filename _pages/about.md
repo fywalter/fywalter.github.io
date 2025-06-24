@@ -22,6 +22,7 @@ Previously, I got my M.S. in Computer Science from **ETH Zurich**, advised by [M
 *Email:* [firstname].fei@uci.edu
 
 ## Recent News
+* 2025 - Our nudging paper is selected for oral and Panel presentation at ACL 2025 (25/3000+)!
 * 2025 - Started an intership @ Amazon Rufus
 * 2025 - One paper accepted to ACL 2025
 * 2024 - Check our new preprint on inference-time alignment! [[website]](https://fywalter.github.io/nudging/)
@@ -36,7 +37,7 @@ Previously, I got my M.S. in Computer Science from **ETH Zurich**, advised by [M
 
 **Nudging: Inference-time Alignment of LLMs via Guided Decoding**\
 **Yu Fei**, Yasaman Razeghi, Sameer Singh\
-*ACL 2025* \
+*ACL 2025* **(🚀 Oral and panel 1% (25/3000+))** \
 [[paper]](https://arxiv.org/abs/2410.09300) [[code]](https://github.com/fywalter/nudging) [[website]](https://fywalter.github.io/nudging/) [[demo]](https://huggingface.co/spaces/fywalter/nudging_align)
 
 **Towards a Mechanistic Interpretation of Multi-Step Reasoning Capabilities of Language Models**    
