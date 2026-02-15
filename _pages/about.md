@@ -35,6 +35,11 @@ Previously, I got my M.S. in Computer Science from **ETH Zurich**, advised by [M
 
 ## Publications and Preprints
 
+**MoCo: A One-Stop Shop for Model Collaboration Research**\
+Shangbin Feng, Yuyang Bai, Ziyuan Yang, Yike Wang, Zhaoxuan Tan, Jiajie Yan, Zhenyu Lei, Wenxuan Ding, Weijia Shi, Haojin Wang, Zhenting Qi, Yuru Jiang, Heng Wang, Chengsong Huang, **Yu Fei**, Jihan Yao, Yilun Du, Luke Zettlemoyer, Yejin Choi, Yulia Tsvetkov\
+*Under Review*\
+[[paper]](https://www.arxiv.org/abs/2601.21257) [[code]](https://github.com/BunsenFeng/model_collaboration)
+
 **Nudging: Inference-time Alignment of LLMs via Guided Decoding**\
 **Yu Fei**, Yasaman Razeghi, Sameer Singh\
 *ACL 2025* **(🚀 Oral and panel 0.8% (25/3000+))** \
